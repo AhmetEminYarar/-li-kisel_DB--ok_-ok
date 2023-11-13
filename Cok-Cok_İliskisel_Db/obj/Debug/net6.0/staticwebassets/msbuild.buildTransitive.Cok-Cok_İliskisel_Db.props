@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Cok-Cok_İliskisel_Db.props" />
+</Project>
